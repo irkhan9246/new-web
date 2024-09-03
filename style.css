@@ -256,3 +256,8 @@ img:hover{
     padding: 30px 70px;
     
    }
+   .border1{
+    border-bottom: 1px dashed grey;
+    margin-top:30px ;
+    margin-bottom: 30px;
+   }
