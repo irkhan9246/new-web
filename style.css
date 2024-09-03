@@ -1,0 +1,261 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.honor{
+    font-weight: 800;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+    
+
+}
+body{
+    background: #e2dbdb;
+    overflow-x: hidden;
+}
+.vote{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    
+}
+.marquee{
+    background-color: #cac6c6;
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.unorder{
+    list-style: none;
+    display: flex;
+    
+}
+.mainhead{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.unorder > li{
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: all ease-in-out 0.2s;
+}
+
+.unorder>li:hover{
+    color: #a8a4a4;
+}
+.button1{
+   background-color: black;
+   color: white;
+   font-size: 18px;
+   border-radius: 6px;
+   padding: 8px;
+}
+.button2{
+    background-color: white;
+    font-size: 18px;
+    border-radius: 6px;
+    padding: 8px;
+ }
+ .input{
+    background-color: rgb(235, 230, 230);
+    font-size: 18px;
+    border-radius: 6px;
+    padding: 8px;
+    color: black;
+ }
+ ::placeholder {
+    color: black;
+    
+  }
+.little{
+    background: #000;
+    color: white;
+    border-radius: 3px;
+    padding: 4px;
+    font-size: 10px;
+}
+.center{
+    display: flex;
+    align-items: center;
+}
+.largehead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90px;
+    text-align: center;
+   
+}
+
+.bgcolor{
+    background-color: #e2dbdb;
+}
+.margin{
+    margin: -4px;
+}
+.mainbody{
+    display: flex;
+    padding: 60px;
+    background-color:#cac6c6;
+    
+}
+.image{
+    border-radius: 20px;
+    margin: 20px;
+}
+.data{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+.vote2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding: 10px;
+}
+.by{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.awards{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    
+}
+.nominees{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.w{
+    background-color: rgb(119, 117, 117);
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+.arrow{
+   margin: 40px;
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+.article{
+    text-decoration: underline;
+    
+}
+.date{
+ font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ }
+
+
+ .p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    
+ }
+ .h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 20px;
+ }
+ .image2{
+    border-radius: 20px;
+    margin: 20px;
+ }
+.by2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+}
+.obys{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000;
+    color: white;
+    border-radius: 80px;
+    font-size: 18px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.mainspan{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.agency{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+    margin: 8px;
+}
+.pro{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+
+.p2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    font-size: 18px;
+}
+.arrow2{
+    margin: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.parentdiv{
+    display: flex;
+    background-color: #e2dbdb;
+}
+.w2{
+    background-color: #868585;
+}
+.newarticles{
+    padding-top: 50px ;
+    padding-bottom: 50px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:100px ;
+    margin-bottom: 100px;
+    background-color: #e2dbdb;
+    
+
+}
+.fresh{
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+    transition: all ease-in-out 0.3s;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+.table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.w3{
+    margin: 30px;
+}
